@@ -1,0 +1,23 @@
+for project 13.1
+Creating a  system using a menu and implementing it using switch statement. For 
+Example,
+1. For setting a value of MRP and QUANTITY for the product.
+2. For Buying a product.
+3. For searching a product.
+4. To delete a product from storage.
+5. To show stored object data
+for project 13.2
+Creating a system using a menu and implementing it using switch statement. For 
+Example,
+1. For Setting a value of Ac_ No, Name and Balance for the Bank
+2. For Withdraw from Account.
+3. For Searching a Account.
+4. To delete an Account from Bank.
+5. To show stored object data
+for project 13.3
+Creating a system using a menu and implementing it using switch statement. For 
+Example
+1. Add Student details.
+2. Update student Details.
+3. For Searching a Student.
+4. Delete Student Details.
